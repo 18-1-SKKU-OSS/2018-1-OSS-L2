@@ -50,6 +50,7 @@ There are minimal and clean example implementations of data structures and algor
 - [graph](graph)
   - [check_bipartite](algorithms/graph/check_bipartite.py)
 ### Simulation Implementation
+- [pancake_sort](simulations/pancake_sort.py)
 - [bubble_sort](simulations/bubble_sort.py)
 - [insertion_sort](simulations/insertion_sort.py)
 - [quick_sort](simulations/quick_sort.py)
