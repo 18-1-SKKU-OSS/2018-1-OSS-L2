@@ -1,4 +1,4 @@
-def pancake_sort(arr):
+def pancake_sort(arr, simulation = False):
     """
     Pancake_sort
     Sorting a given array
@@ -8,6 +8,10 @@ def pancake_sort(arr):
     
     Overall time complexity : O(N^2)
     """
+    iteration = 0
+    if simulation:
+        print("iteration", iteration, ":", *arr)
+    
     len_arr = len(arr)
     if len_arr <= 1:
         return arr
@@ -23,4 +27,8 @@ def pancake_sort(arr):
             # Reverse list
             arr[:cur] = reversed(arr[:cur])
             
+        if simulation:
+            iteration = iteration + 1
+            print("itertaion", iteration,":",*arr)
     return arr
+
