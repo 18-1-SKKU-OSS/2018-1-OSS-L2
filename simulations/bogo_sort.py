@@ -1,6 +1,7 @@
 import random
 
 def bogo_sort(arr, simulation=False):
+    
     """Bogo Sort
         Best Case Complexity: O(n)
         Worst Case Complexity: O(∞)
