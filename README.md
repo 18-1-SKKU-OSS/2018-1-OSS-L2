@@ -25,6 +25,7 @@ There are minimal and clean example implementations of data structures and algor
   - [combination](algorithms/maths/combination.py)
   - [factorial](algorithms/maths/factorial.py)
   - [fibonacci](algorithms/maths/fibonacci.py)
+  - [modularExponential](algorithms/maths/modularExponential.py)
 - [sort](algorithms/sort)
   - [bitonic_sort](algorithms/sort/bitonic_sort.py)
   - [bogo_sort](algorithms/sort/bogo_sort.py)
