@@ -31,6 +31,7 @@ There are minimal and clean example implementations of data structures and algor
   - [bogo_sort](algorithms/sort/bogo_sort.py)
   - [bucket_sort](algorithms/sort/bucket_sort.py)
   - [shell_sort](algorithms/sort/shell_sort.py)
+  - [radix_sort](algorithms/sort/radix_sort.py)
   - [cocktail_shaker_sort](algorithms/sort/cocktail_shaker_sort.py)
   - [cycle_sort](algorithms/sort/cycle_sort.py)
   - [gnome_sort](algorithms/sort/gnome_sort.py)
@@ -50,9 +51,11 @@ There are minimal and clean example implementations of data structures and algor
   - [check_bipartite](algorithms/graph/check_bipartite.py)
 ### Simulation Implementation
 - [bubble_sort](simulations/bubble_sort.py)
-- [insertion_sort](simulations/insertion_sort.py)
-- [quick_sort](simulations/quick_sort.py)
+- [cycle_sort](simulations/cycle_sort.py)
 - [heap_sort](simulations/heap_sort.py)
+- [insertion_sort](simulations/insertion_sort.py)
+- [pancake_sort](simulations/pancake_sort.py)
+- [quick_sort](simulations/quick_sort.py)
 - [selection_sort](simulations/selection_sort.py)
 ### Test Cases Creation/Updates
 - [test_sort](tests/test_sort.py)
