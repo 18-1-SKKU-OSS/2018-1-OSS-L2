@@ -217,7 +217,7 @@ if __name__ == "__main__":
     - [bitonic_sort](algorithms/sort/bitonic_sort.py)
     - [bogo_sort](algorithms/sort/bogo_sort.py)
     - [bubble_sort](algorithms/sort/bubble_sort.py)
-    - [cocktail_shaker_sort]{algorithms/sort/cocktail_shaker_sort.py)
+    - [cocktail_shaker_sort](algorithms/sort/cocktail_shaker_sort.py)
     - [comb_sort](algorithms/sort/comb_sort.py)
     - [cycle_sot](algorithms/sort/cycle_sort.py)
     - [gnome_sort](algorithms/sort/gnoeme_sort.py)
