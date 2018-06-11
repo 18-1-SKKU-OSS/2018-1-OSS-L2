@@ -31,6 +31,7 @@ There are minimal and clean example implementations of data structures and algor
   - [bogo_sort](algorithms/sort/bogo_sort.py)
   - [bucket_sort](algorithms/sort/bucket_sort.py)
   - [shell_sort](algorithms/sort/shell_sort.py)
+  - [radix sort](algorithms/sort/radix_sort.py)
   - [cocktail_shaker_sort](algorithms/sort/cocktail_shaker_sort.py)
   - [cycle_sort](algorithms/sort/cycle_sort.py)
   - [gnome_sort](algorithms/sort/gnome_sort.py)
