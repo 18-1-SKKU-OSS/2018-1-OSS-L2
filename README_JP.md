@@ -31,7 +31,7 @@ Python 3で開発された簡単で明確なデータ構造とアルゴリズム
 
     $ pip3 install git+https://github.com/keon/algorithms
 
-Pythonファイルを作成してテストを行うことができます：（例：「sort」の「merge_sort」を使用）
+Pythonファイルを作成してテストを実行することができます：（例：「sort」の「merge_sort」を使用）
 
 ```python3
 from sort import merge_sort
@@ -179,6 +179,7 @@ if __name__ == "__main__":
     - [gcd/lcm](algorithms/maths/gcd.py)
     - [generate_strobogrammtic](algorithms/maths/generate_strobogrammtic.py)
     - [is_strobogrammatic](algorithms/maths/is_strobogrammatic.py)
+    - [modularExponential](algorithms/maths/modularExponential.py)
     - [next_bigger](algorithms/maths/next_bigger.py)
     - [next_perfect_square](algorithms/maths/next_perfect_square.py)
     - [nth_digit](algorithms/maths/nth_digit.py)
@@ -221,17 +222,20 @@ if __name__ == "__main__":
     - [randomized_set](algorithms/set/randomized_set.py)
     - [set_covering](algorithms/set/set_covering.py)
 - [sort : ソート](algorithms/sort)
-
+    - [bitonic_sort](algorithms/sort/bitonic_sort.py)
     - [bogo_sort](algorithms/sort/bogo_sort.py)
     - [bubble_sort](algorithms/sort/bubble_sort.py)
     - [bucket_sort](algorithms/sort/bucket_sort.py)
     - [cocktail_shaker_sort](algorithms/sort/cocktail_shaker_sort.py)
     - [comb_sort](algorithms/sort/comb_sort.py)
     - [counting_sort](algorithms/sort/counting_sort.py)
+    - [cycle_sot](algorithms/sort/cycle_sort.py)
+    - [gnome_sort](algorithms/sort/gnome_sort.py)
     - [heap_sort](algorithms/sort/heap_sort.py)
     - [insertion_sort](algorithms/sort/insertion_sort.py)
     - [meeting_rooms](algorithms/sort/meeting_rooms.py)
     - [merge_sort](algorithms/sort/merge_sort.py)
+    - [pancake_sort](algorithms/sort/pancake_sort.py)
     - [quick_sort](algorithms/sort/quick_sort.py)
     - [radix_sort](algorithms/sort/radix_sort.py)
     - [selection_sort](algorithms/sort/selection_sort.py)
