@@ -13,11 +13,7 @@ There are minimal and clean example implementations of data structures and algor
 
 * [Contributors](https://github.com/keon/algorithms/graphs/contributors)
 저희 팀원 모두 프로젝트의 기여자가 되었습니다.
-<p align="center"><img width="40%" src="geonlee.PNG" /></p>
-<p align="center"><img width="40%" src="sangikhyun.PNG" /></p>
-<p align="center"><img width="40%" src="sangwookhan.PNG" /></p>
-<p align="center"><img width="40%" src="jiwoojeong.PNG" /></p>
-<p align="center"><img width="40%" src="juyoungpark.PNG" /></p>
+
 
 ## Our Activities
 ### README Files Translation
