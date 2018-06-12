@@ -55,6 +55,7 @@ if __name__ == "__main__":
     - [garage](algorithms/arrays/garage.py)
     - [josephus_problem](algorithms/arrays/josephus.py)
     - [max_ones_index](algorithms/arrays/max_ones_index.py)
+    - [limit](algorithms/arrays/limit.py)
     - [longest_non_repeat](algorithms/arrays/longest_non_repeat.py/)
     - [merge_intervals](algorithms/arrays/merge_intervals.py)
     - [missing_ranges](algorithms/arrays/missing_ranges.py)

@@ -14,7 +14,8 @@ from algorithms.arrays import (
     two_sum,
     max_ones_index,
     top_1,
-    trimmean
+    trimmean,
+    limit
 )
 
 import unittest
@@ -328,6 +329,13 @@ class TestTrimmean(unittest.TestCase):
                                   5.5)
         self.assertEqual(trimmean([1,2,3,4,5], 40),
                                   3.0)
+        
+class TestLimit(unittest.TestCase):
+    
+    def test_limit(self):
+        self.assertListEqual(limit([1, 2, 3, 4, 5], 2, 4), [2, 3, 4])
+        self.assertListEqual(limit([1, 2, 3, 4, 5], 2), [2, 3, 4, 5])
+        self.assertListEqual(limit([1, 2, 3, 4, 5], 'unlimit', 4), [1, 2, 3, 4])
         
 if __name__ == '__main__':
 

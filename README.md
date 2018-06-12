@@ -40,6 +40,7 @@ There are minimal and clean example implementations of data structures and algor
   - [jump_search](algorithms/search/jump_search.py)
   - [linear_search](algorithms/search/linear_search.py)
 - [arrays](algorithms/arrays)
+  - [limit](arrays/limit.py)
   - [top_1](algorithms/arrays/top_1.py)
   - [trimmean](algorithms/arrays/trimmean.py)
 - [bfs](algorithms/bfs)
