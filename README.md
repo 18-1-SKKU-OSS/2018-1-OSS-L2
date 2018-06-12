@@ -37,6 +37,7 @@ There are minimal and clean example implementations of data structures and algor
 - [arrays](arrays)
   - [top_1](arrays/top_1.py)
   - [trimmean](arrays/trimmean.py)
+  - [limit](arrays/limit.py)
 
 ### Test Cases Creation/Updates
 - [test_sort](tests/test_sort.py)
