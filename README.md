@@ -96,6 +96,7 @@ There are minimal and clean example implementations of data structures and algor
 - [(#327) Added simulation in bubble sort](https://github.com/keon/algorithms/pull/327) by [이건](https://github.com/lg970325)
 - [(#333) Added simulation features in insertion & selection sorts](https://github.com/keon/algorithms/pull/333) by [이건](https://github.com/lg970325)
 - [(#342) simulation code about quick_sort and heap_sort](https://github.com/keon/algorithms/pull/342) by [현상익](https://github.com/hsi1032)
+- [(#355) simulation code for bogo_sort, Re-PR](https://github.com/keon/algorithms/pull/355) by [정지우](https://github.com/wldn0202)
 ### Page Organization
 - [(#298) Updated README files as reorganized + Added bucket and shell sorts in the list](https://github.com/keon/algorithms/pull/298) by [이건](https://github.com/lg970325)
 - [(#300) Corrected link to Arrays/Josephus Problems](https://github.com/keon/algorithms/pull/300) by [이건](https://github.com/lg970325)
