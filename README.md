@@ -87,6 +87,7 @@ There are minimal and clean example implementations of data structures and algor
 - [(#345) Created top_1.py & trimmean.py](https://github.com/keon/algorithms/pull/345) by [박주영](https://github.com/aig031)
 - [(#346) Created Preorder & Postorder traversals in tree](https://github.com/keon/algorithms/pull/346) by [이건](https://github.com/lg970325)
 - [(#347) Created check_bipartite.py in algorithms/graph + test cases](https://github.com/keon/algorithms/pull/347) by [이건](https://github.com/lg970325)
+- [(#353) Created limit.py in /algorithms/arrays/](http://github.com/keon/algorithms/pull/353) by [박주영](https://github.com/aig031)
 ### Simulation Implementation
 - [(#327) Added simulation in bubble sort](https://github.com/keon/algorithms/pull/327) by [이건](https://github.com/lg970325)
 - [(#333) Added simulation features in insertion & selection sorts](https://github.com/keon/algorithms/pull/333) by [이건](https://github.com/lg970325)
@@ -98,7 +99,6 @@ There are minimal and clean example implementations of data structures and algor
 - [(#307) Added link to linear search in all README files](https://github.com/keon/algorithms/pull/307) by [정지우](https://github.com/wldn0202)
 - [(#312) Fixed links in README files](https://github.com/keon/algorithms/pull/312) by [이건](https://github.com/lg970325)
 - [(#316) Added link to OS Helpers, Build Status, and Coverage Status in README files.](https://github.com/keon/algorithms/pull/316) by [정지우](https://github.com/wldn0202)
-- [(#353) Created limit.py in /algorithms/arrays/](http://github.com/keon/algorithms/pull/353) by [박주영](https://github.com/aig031)
 
 ## Issues
 - [Simulation code for sort algorithms](https://github.com/keon/algorithms/issues/315)
