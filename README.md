@@ -98,6 +98,7 @@ There are minimal and clean example implementations of data structures and algor
 - [(#307) Added link to linear search in all README files](https://github.com/keon/algorithms/pull/307) by [정지우](https://github.com/wldn0202)
 - [(#312) Fixed links in README files](https://github.com/keon/algorithms/pull/312) by [이건](https://github.com/lg970325)
 - [(#316) Added link to OS Helpers, Build Status, and Coverage Status in README files.](https://github.com/keon/algorithms/pull/316) by [정지우](https://github.com/wldn0202)
+- [(#353) Created limit.py in /algorithms/arrays/](http://github.com/keon/algorithms/pull/353) by [박주영](https://github.com/aig031)
 
 ## Issues
 - [Simulation code for sort algorithms](https://github.com/keon/algorithms/issues/315)
